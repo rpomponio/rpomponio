@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am a statistician with a specialty in biomedical applications. I'm passionate about using data science to solve challenges in public health and improve decision-making in business.
+I'm a data scientist with a background in healthcare research, biostatistics, and open-source software development. For the past 5+ years I've worked on a number of complex projects, including analytical pipelines for CDC-sponsored studies, data tools adopted by hundreds of researchers worldwide, and translating statistical findings for audiences ranging from clinicians to directors.
 
-My work has been published in a variety of clinical and scientific journals including *Brain*, *Alzheimer’s and Dementia*, *NeuroImage*, *Pulmonary Circulation*, and *CHEST* (for an up-to-date list, see my [Google Scholar Page](https://scholar.google.com/citations?user=TxEcZMMAAAAJ&hl=en)).
+I am the creator and maintainer of neuroHarmonize, an open-source Python toolkit: [github.com/rpomponio/neuroHarmonize](https://github.com/rpomponio/neuroHarmonize).
 
-My expertise is in analyzing and modeling complex datasets, including missing information, survival outcomes, and correlated data. I received my Master’s in Biostatistics from the University of Colorado (Denver) in 2023. I'm currently located in Pittsburgh, PA.
+I am also the co-author of 15+ scientific publications which can be found at: [ncbi.nlm.nih.gov/myncbi/raymond.pomponio.1](https://www.ncbi.nlm.nih.gov/myncbi/raymond.pomponio.1/bibliography/public/).
