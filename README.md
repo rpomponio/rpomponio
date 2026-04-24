@@ -17,7 +17,7 @@ Full publication list: [ncbi.nlm.nih.gov/myncbi/raymond.pomponio.1](https://www.
 
 ---
 
-## Publications
+## Highlighted Publications
 
 ### Neuroimaging & Harmonization
 
@@ -43,5 +43,5 @@ Full publication list: [ncbi.nlm.nih.gov/myncbi/raymond.pomponio.1](https://www.
 | [Analgesia and sedation use during noninvasive ventilation for acute respiratory failure](https://doi.org/10.1097/CCM.0000000000006253) | *Critical Care Medicine* | 2024 |
 | [Extraneous load, patient census, and patient acuity correlate with cognitive load during ICU rounds](https://doi.org/10.1016/j.chest.2023.12.029) | *Chest* | 2024 |
 | [Prevalence of alcohol use characterized by phosphatidylethanol in patients with respiratory failure before and during the COVID-19 pandemic](https://doi.org/10.1016/j.chstcc.2023.100045) | *CHEST Critical Care* | 2024 |
-| [Health at Home: investigating low-income housing quality on Colfax Avenue]([https://doi.org/10.1353/hpu.2024.a928030](https://doi.org/10.1353/hpu.2024.a934298)) | *J Health Care Poor Underserved* | 2024 |
+| [Health at Home: investigating low-income housing quality on Colfax Avenue](https://doi.org/10.1353/hpu.2024.a934298) | *J Health Care Poor Underserved* | 2024 |
 | [Impact of the COVID-19 pandemic on chronic disease management in patients with pulmonary hypertension](https://doi.org/10.1002/pul2.12233) | *Pulmonary Circulation* | 2023 |
