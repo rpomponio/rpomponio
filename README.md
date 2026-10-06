@@ -1,47 +1,33 @@
-# Ray Pomponio
+# Hi, I'm Ray 👋
 
-Data scientist with a background in biostatistics, healthcare research, and open-source software development. I build analytical pipelines and statistical tools for complex, multi-site data problems in clinical and neuroimaging contexts.
+I build open-source statistical tools, interactive data visualizations, and full-stack side projects.
 
-I am the creator and maintainer of [neuroHarmonize](https://github.com/rpomponio/neuroHarmonize), a Python toolkit for harmonizing neuroimaging datasets across scanners and sites using ComBat-based methods. The package has been adopted by hundreds of researchers worldwide and has accumulated 500+ citations. Selected publications that use or extend this work:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ray_Pomponio-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ray-pomponio)
 
-- [Harmonization of large MRI datasets for the analysis of brain imaging patterns throughout the lifespan](https://doi.org/10.1016/j.neuroimage.2019.116450), *NeuroImage* (first author)
-- [Disentangling Alzheimer's disease neurodegeneration from typical brain ageing using machine learning](https://doi.org/10.1093/braincomms/fcac117), *Brain Communications*
-- [MRI signatures of brain age and disease over the lifespan based on a deep brain network and 14,468 individuals worldwide](https://doi.org/10.1093/brain/awaa160), *Brain*
-- [The Brain Chart of Aging: machine-learning analytics reveals links between brain aging, white matter disease, amyloid burden, and cognition](https://doi.org/10.1002/alz.12178), *Alzheimer's & Dementia*
+## 📦 Featured Open-Source Packages
 
-Most recently, I've been a data scientist at the University of Pittsburgh / Children's Hospital of Pittsburgh, where I served as lead biostatistician for a CDC-sponsored surveillance study tracking respiratory viruses in pediatric populations. Before that, I completed my MS in Biostatistics at the University of Colorado–Denver, co-authoring 10+ manuscripts and developing statistical methods for clinical and epidemiological research across pulmonary, transplant, and critical care medicine.
+### **[neuroHarmonize](https://github.com/rpomponio/neuroHarmonize)**
+> **Python package for multi-site neuroimaging data harmonization using ComBat-GAM statistical methods.**
 
-Earlier in my career, I was a data analyst at the University of Pennsylvania School of Medicine, working in the [Davatzikos Lab](https://www.med.upenn.edu/cbica/) on multi-center MRI harmonization and ML-based biomarkers of neurodegeneration. That work on ComBat harmonization for neuroimaging became neuroHarmonize.
-
-Full publication list: [ncbi.nlm.nih.gov/myncbi/raymond.pomponio.1](https://www.ncbi.nlm.nih.gov/myncbi/raymond.pomponio.1/bibliography/public/)
+* Eliminates site and scanner artifacts across high-dimensional MRI datasets while preserving biological variation.
+* Supports multi-site harmonization for sMRI, dMRI, and fMRI variables as well as direct NIFTI image processing.
+* Adopted by multi-center neuroimaging consortia with **100+ GitHub stars** and [**500+ citations**](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16517582192446053531,12837191489665522400&as_sdt=5).
 
 ---
 
-## Highlighted Publications
+## 📊 Interactive Web Apps & Visualizations
 
-### Neuroimaging & Harmonization
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Climbing Pyramid Visualizer](https://github.com/rpomponio/tick_pyramid_tool)** | Web application for scraping, analyzing, and visualizing rock climbing pyramids from MountainProject data. | `Python` `Flask` `D3.js` |
+| **[Brain Volumetric-Age Visualizer](https://github.com/rpomponio/neuro_lifespan_trajectories)** | Interactive visualizer for modeling structural brain region volumetric changes across human lifespan trajectories. | `R` `Shiny` `ggplot2` |
+| **[Fantasy Football Strategy Engine](https://github.com/rpomponio/ff_draft_optimizR)** | Custom value-over-replacement draft optimization engine synthesizing multiple projection sources. | `R` `tidyverse` `rvest` |
 
-| Title | Journal | Year |
-|---|---|---|
-| [Harmonization of large MRI datasets for the analysis of brain imaging patterns throughout the lifespan](https://doi.org/10.1016/j.neuroimage.2019.116450) | *NeuroImage* | 2020 |
-| [MRI signatures of brain age and disease over the lifespan based on a deep brain network and 14,468 individuals worldwide](https://doi.org/10.1093/brain/awaa160) | *Brain* | 2020 |
-| [Two distinct neuroanatomical subtypes of schizophrenia revealed using machine learning](https://doi.org/10.1093/brain/awaa025) | *Brain* | 2020 |
-| [The Brain Chart of Aging: machine-learning analytics reveals links between brain aging, white matter disease, amyloid burden, and cognition](https://doi.org/10.1002/alz.12178) | *Alzheimer's & Dementia* | 2021 |
-| [Association of intensive vs standard blood pressure control with MRI biomarkers of Alzheimer disease](https://doi.org/10.1001/jamaneurol.2021.0178) | *JAMA Neurology* | 2021 |
-| [Harmonizing functional connectivity reduces scanner effects in community detection](https://doi.org/10.1016/j.neuroimage.2022.119198) | *NeuroImage* | 2022 |
-| [Disentangling Alzheimer's disease neurodegeneration from typical brain ageing using machine learning](https://doi.org/10.1093/braincomms/fcac117) | *Brain Communications* | 2022 |
-| [Brain age and Alzheimer's-like atrophy are domain-specific predictors of cognitive impairment in Parkinson's disease](https://doi.org/10.1016/j.neurobiolaging.2021.08.020) | *Neurobiology of Aging* | 2022 |
-| [Mid-life epigenetic age, neuroimaging brain age, and cognitive function: the CARDIA study](https://doi.org/10.18632/aging.203918) | *Aging* | 2022 |
+---
 
-### Clinical & Epidemiological Research
+## 🛠️ Hardware & Maker Experiments
 
-| Title | Journal | Year |
-|---|---|---|
-| [Emergence and epidemiology of dominant variants of human metapneumovirus in the United States, 2016–2021](https://doi.org/10.1128/mbio.02619-25) | *mBio* | 2026 |
-| [Phosphatidylethanol measures in patients with severe COVID-19-associated respiratory failure identify a subset with alcohol misuse](https://doi.org/10.1111/acer.15495) | *Alcohol Clin Exp Res* | 2025 |
-| [Donor derived cell free DNA in lung transplant recipients rises in setting of allograft instability](https://doi.org/10.3389/frtra.2024.1497374) | *Frontiers in Transplantation* | 2024 |
-| [Analgesia and sedation use during noninvasive ventilation for acute respiratory failure](https://doi.org/10.1097/CCM.0000000000006253) | *Critical Care Medicine* | 2024 |
-| [Extraneous load, patient census, and patient acuity correlate with cognitive load during ICU rounds](https://doi.org/10.1016/j.chest.2023.12.029) | *Chest* | 2024 |
-| [Prevalence of alcohol use characterized by phosphatidylethanol in patients with respiratory failure before and during the COVID-19 pandemic](https://doi.org/10.1016/j.chstcc.2023.100045) | *CHEST Critical Care* | 2024 |
-| [Health at Home: investigating low-income housing quality on Colfax Avenue](https://doi.org/10.1353/hpu.2024.a934298) | *J Health Care Poor Underserved* | 2024 |
-| [Impact of the COVID-19 pandemic on chronic disease management in patients with pulmonary hypertension](https://doi.org/10.1002/pul2.12233) | *Pulmonary Circulation* | 2023 |
+### **[Guitar Case Environmental Monitor](https://github.com/rpomponio/raspberry-pi-humidity-monitor)**
+* Built a custom IoT climate tracking system inside a acoustic guitar case to prevent humidity damage.
+* **Hardware:** Raspberry Pi 3 + DHT22 temperature and humidity sensor.
+* **Software:** Automated logging scripts, local SQLite database, and lightweight HTML dashboard for real-time telemetry.
