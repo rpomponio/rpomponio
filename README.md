@@ -13,8 +13,6 @@ I build open-source statistical tools, interactive data visualizations, and full
 * Supports multi-site harmonization for sMRI, dMRI, and fMRI variables as well as direct NIFTI image processing.
 * Adopted by multi-center neuroimaging consortia with **100+ GitHub stars** and [**500+ citations**](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16517582192446053531,12837191489665522400&as_sdt=5).
 
----
-
 ## 📊 Interactive Web Apps & Visualizations
 
 | Project | Description | Tech Stack |
@@ -22,8 +20,6 @@ I build open-source statistical tools, interactive data visualizations, and full
 | **[Climbing Pyramid Visualizer](https://github.com/rpomponio/tick_pyramid_tool)** | Web application for scraping, analyzing, and visualizing rock climbing pyramids from MountainProject data. | `Python` `Flask` `D3.js` |
 | **[Brain Volumetric-Age Visualizer](https://github.com/rpomponio/neuro_lifespan_trajectories)** | Interactive visualizer for modeling structural brain region volumetric changes across human lifespan trajectories. | `R` `Shiny` `ggplot2` |
 | **[Fantasy Football Strategy Engine](https://github.com/rpomponio/ff_draft_optimizR)** | Custom value-over-replacement draft optimization engine synthesizing multiple projection sources. | `R` `tidyverse` `rvest` |
-
----
 
 ## 🛠️ Hardware & Maker Experiments
 
